@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Text Editor",
+        "description": "Built a text editor that has basic functionalities such as text formatting and image insertion.",
+        "url": "https://github.com/Q-Linh/text-editor",
+        "image": "https://q-linh.github.io/img-repo/text-editor/app.png",
+        "tags": ["ReactJS", "HTML/CSS", "Firebase"]
+    },
+    {
+        "title": "Bomb Championship Game",
+        "description": "Created a classic 2D two-player bomb game in which each player lays bombs on the field to eliminate the other.",
+        "url": "https://github.com/Q-Linh/bomb-championship-game",
+        "image": "https://q-linh.github.io/img-repo/bomb-championship-game/Image.png",
+        "tags": ["C#", "SwinGame"]
+    },
+    {
+        "title": "South Pacific Programming Contest Practice",
+        "description": "Practised solving coding problems and made preparation towards ACM-ICPC Divisional.",
+        "url": "https://github.com/Q-Linh/SwinACM2019",
+        "image": "https://q-linh.github.io/img-repo/icpc-practice/contest-image.png",
+        "tags": ["C++", "Algorithms", "Data Structures"]
+    },
+    {
+        "title": "Account Management Application",
+        "description": "Developed a desktop app that stores user account information and only allows authenticated user to access them.",
+        "url": "https://github.com/Q-Linh/Hush",
+        "image": "https://q-linh.github.io/img-repo/hush/password-manager-image-2.png",
+        "tags": ["C#", "MySQL", "WinForm"]
+    }
+]
+

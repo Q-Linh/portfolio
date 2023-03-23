@@ -1,0 +1,44 @@
+.App {
+    font-family: "Verdana";
+    color: #202f5e;
+    /* background-color: transparent; */
+}
+
+/* .darkBG {
+    background-color: rgba(0, 0, 0, 0.2);
+    width: 100vw;
+    height: 100vh;
+    z-index: 4;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: fixed;
+} */
+
+.section-title {
+    text-align: center;
+}
+
+hr {
+    width: 200px;
+}
+
+section {
+    margin-bottom: 40px;
+    width: 100%;
+}
+
+/* .player {
+    width: 400px;
+    height: auto;
+} */
+
+h1, h2 {
+    color: #5C7CFA;
+}
+
+/* .hline {
+    height: 5px;
+    position: relative;
+    left: 43%;
+} */
