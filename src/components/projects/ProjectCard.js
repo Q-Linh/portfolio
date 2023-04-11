@@ -9,7 +9,7 @@ function ProjectCard({ project }) {
                 <h3><label className="project-title">{project.title}</label></h3>
                 <p>{project.description}</p>
                 <a className="link-button" href={project.url}>
-                    <img src={github} alt="GitHub" />Github
+                    <img src={github} alt="GitHub" />GitHub
                 </a>
                 <div className="project-tags">
                     {
